@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "ItemsRepeaterTest",
+  "display": "standalone",
+  "name": "ItemsRepeaterTest",
+  "short_name": "ItemsRepeaterTest",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

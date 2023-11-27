@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"ItemsRepeaterTest.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"ItemsRepeaterTest.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
